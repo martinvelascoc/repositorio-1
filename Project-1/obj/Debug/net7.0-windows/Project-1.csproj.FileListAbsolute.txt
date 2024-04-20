@@ -1,0 +1,17 @@
+C:\Users\mvela\source\repos\Project-1\bin\Debug\net7.0-windows\Project-1.exe
+C:\Users\mvela\source\repos\Project-1\bin\Debug\net7.0-windows\Project-1.deps.json
+C:\Users\mvela\source\repos\Project-1\bin\Debug\net7.0-windows\Project-1.runtimeconfig.json
+C:\Users\mvela\source\repos\Project-1\bin\Debug\net7.0-windows\Project-1.dll
+C:\Users\mvela\source\repos\Project-1\bin\Debug\net7.0-windows\Project-1.pdb
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project_1.Form1.resources
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.csproj.GenerateResource.cache
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.AssemblyInfoInputs.cache
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.AssemblyInfo.cs
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.csproj.CoreCompileInputs.cache
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.dll
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\refint\Project-1.dll
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.pdb
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project-1.genruntimeconfig.cache
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\ref\Project-1.dll
+C:\Users\mvela\source\repos\Project-1\obj\Debug\net7.0-windows\Project_1.Properties.Resources.resources

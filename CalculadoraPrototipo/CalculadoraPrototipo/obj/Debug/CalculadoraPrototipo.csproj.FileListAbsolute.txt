@@ -1,0 +1,14 @@
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\bin\Debug\CalculadoraPrototipo.exe.config
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\bin\Debug\CalculadoraPrototipo.exe
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\bin\Debug\CalculadoraPrototipo.pdb
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.csprojAssemblyReference.cache
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.Calculadora.resources
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.Properties.Resources.resources
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.csproj.GenerateResource.cache
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.csproj.CoreCompileInputs.cache
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.exe
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.pdb
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\bin\Debug\CalculadoraPrototipo.exe.manifest
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\bin\Debug\CalculadoraPrototipo.application
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.exe.manifest
+C:\Users\obieu\source\repos\CalculadoraPrototipo\CalculadoraPrototipo\obj\Debug\CalculadoraPrototipo.application
